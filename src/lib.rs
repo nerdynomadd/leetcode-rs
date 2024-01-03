@@ -2,3 +2,4 @@ mod one_two_sum;
 mod two_add_two_numbers;
 mod three_longest_substring_without_repeating_character;
 mod four_median_of_two_sorted_arrays;
+mod five_longest_palindronic_substring;
