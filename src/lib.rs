@@ -5,3 +5,4 @@ mod four_median_of_two_sorted_arrays;
 mod five_longest_palindronic_substring;
 mod six_zigzag_conversion;
 mod seven_reverse_integer;
+mod eight_string_to_integer;
