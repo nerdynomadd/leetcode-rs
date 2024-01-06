@@ -6,3 +6,4 @@ mod five_longest_palindronic_substring;
 mod six_zigzag_conversion;
 mod seven_reverse_integer;
 mod eight_string_to_integer;
+mod nine_palindrome_number;
