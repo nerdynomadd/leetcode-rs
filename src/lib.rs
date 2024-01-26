@@ -23,3 +23,4 @@ mod twenty_four_swap_node_in_pairs;
 mod twenty_five_reverse_nodes_in_k_group;
 mod twenty_six_remove_duplicates_from_sorted_array;
 mod twenty_sevent_remove_element;
+mod twenty_eight_find_the_index_of_the_first_occurence_in_a_string;
