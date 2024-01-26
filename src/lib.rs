@@ -22,3 +22,4 @@ mod twenty_three_merge_k_sorted_lists;
 mod twenty_four_swap_node_in_pairs;
 mod twenty_five_reverse_nodes_in_k_group;
 mod twenty_six_remove_duplicates_from_sorted_array;
+mod twenty_sevent_remove_element;
