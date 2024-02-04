@@ -26,3 +26,4 @@ mod twenty_sevent_remove_element;
 mod twenty_eight_find_the_index_of_the_first_occurence_in_a_string;
 mod thirty_substring_with_concatenation_of_all_words;
 mod twenty_nine_divide_two_integers;
+mod thirty_four_find_first_and_last_position_element_in_sorted_array;
