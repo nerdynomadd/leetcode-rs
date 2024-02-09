@@ -28,3 +28,6 @@ mod thirty_substring_with_concatenation_of_all_words;
 mod twenty_nine_divide_two_integers;
 mod thirty_four_find_first_and_last_position_element_in_sorted_array;
 mod thirty_eight_count_and_say;
+mod thirty_nine_combination_sum;
+mod fourty_combination_sum_two;
+mod fourty_five_jump_game_two;
