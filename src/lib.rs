@@ -32,3 +32,4 @@ mod thirty_nine_combination_sum;
 mod fourty_combination_sum_two;
 mod fourty_five_jump_game_two;
 mod fourty_six_permutations;
+mod fourty_seven_permutations_two;
