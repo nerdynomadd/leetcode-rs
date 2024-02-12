@@ -31,3 +31,4 @@ mod thirty_eight_count_and_say;
 mod thirty_nine_combination_sum;
 mod fourty_combination_sum_two;
 mod fourty_five_jump_game_two;
+mod fourty_six_permutations;
