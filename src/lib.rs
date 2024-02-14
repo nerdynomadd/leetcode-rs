@@ -34,3 +34,4 @@ mod fourty_five_jump_game_two;
 mod fourty_six_permutations;
 mod fourty_seven_permutations_two;
 mod fourty_eight_rotate_image;
+mod fourty_nine_group_anagrams;
