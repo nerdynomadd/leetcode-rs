@@ -37,3 +37,5 @@ mod fourty_eight_rotate_image;
 mod fourty_nine_group_anagrams;
 mod fourty_three_multiply_strings;
 mod fifty_pow_x_n;
+mod fifty_five_jump_game;
+mod fifty_six_merge_intervals
